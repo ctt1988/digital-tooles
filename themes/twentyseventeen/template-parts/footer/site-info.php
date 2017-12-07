@@ -10,12 +10,8 @@
 
 ?>
 <div class="site-info">
-	
-	<span style="white-space: nowrap;">
-		Designed and Developed by 
-	
-		<h6><a href="digitaltooles.com">DigitalTooles</a>
-		<h6>
 
-	</span>
+		Designed and Developed by 
+		<a href="digitaltooles.com" target="_blank">DigitalTooles</a>
+		
 </div><!-- .site-info -->
