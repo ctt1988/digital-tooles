@@ -10,8 +10,8 @@
 
 ?>
 <div class="site-info">
-	<h5>
+	
 		Designed and Developed by
-	</h5>
-	<a href="digitaltooles.com">DigitalTooles</a>
+	
+	<h6><a href="digitaltooles.com">DigitalTooles</a><h6>
 </div><!-- .site-info -->
