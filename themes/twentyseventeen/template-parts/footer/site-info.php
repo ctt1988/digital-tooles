@@ -11,7 +11,7 @@
 ?>
 <div class="site-info">
 
-	<a href="<?php echo esc_url( __( 'https://digitaltooles.com/' )); ?>"><?php printf( __( 'Designed and Developed by %s'), 'DigitalTooles' ); ?>
+	<a href="<?php echo esc_url( __( 'http://digitaltooles.com/' )); ?>"><?php printf( __( 'Designed and Developed by %s'), 'DigitalTooles' ); ?>
 	</a>
 		
 </div><!-- .site-info -->
